@@ -1,0 +1,1 @@
+In "VideoAnalysis.ipynb" I worked on a Convolutional Neural Network that could detect facial emotion and utilized OpenCV in order to get the pixel location of faces and grayscaled it to input it into the Neural Network, I then wrote an algorithm in OpenCV that takes the camera of the current device and spits out the feed with the current emotion of the person on the screen.
